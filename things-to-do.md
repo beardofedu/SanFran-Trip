@@ -38,35 +38,20 @@
 Craft :beer: Tours: 
  - https://www.tripadvisor.com/Attraction_Review-g60713-d8113964-Reviews-SF_on_Tap_Walking_Craft_Beer_Tours-San_Francisco_California.html 
  - https://www.tripadvisor.com/Attractions-g60713-Activities-c42-t201-San_Francisco_California.html 
+ - [Anchor Brewing Co](https://www.tripadvisor.com/Attraction_Review-g60713-d1009199-Reviews-Anchor_Brewing_Company-San_Francisco_California.html)
 
-Urban Hike:
-https://www.tripadvisor.com/AttractionProductDetail?product=6032JUNGLE&d=105363&aidSuffix=xsell&partner=Viator
-Disney Family - Museum:
-https://www.tripadvisor.com/Attraction_Review-g60713-d1556974-Reviews-Walt_Disney_Family_Museum-San_Francisco_California.html
-Lombard Street:
-https://www.tripadvisor.com/Attraction_Review-g60713-d106232-Reviews-Lombard_Street-San_Francisco_California.html
-Grace Cathedral
-https://www.tripadvisor.com/Attraction_Review-g60713-d116450-Reviews-Grace_Cathedral-San_Francisco_California.html
-Fisherman’s Wharf
-https://www.tripadvisor.com/Attraction_Review-g60713-d108678-Reviews-Fisherman_s_Wharf-San_Francisco_California.html
-SanFran Botanical Garden:
-https://www.tripadvisor.com/Attraction_Review-g60713-d104952-Reviews-San_Francisco_Botanical_Garden-San_Francisco_California.html 
-Ferry Plaza Farmer’s Market
-https://www.tripadvisor.com/Attraction_Review-g60713-d282299-Reviews-Ferry_Plaza_Farmer_s_Market-San_Francisco_California.html
-San Fran City Hall
-https://www.tripadvisor.com/Attraction_Review-g60713-d144407-Reviews-San_Francisco_City_Hall-San_Francisco_California.html
-Coit Tower
-https://www.tripadvisor.com/Attraction_Review-g60713-d104674-Reviews-Coit_Tower-San_Francisco_California.html
-Japanese Tea Garden
-https://www.tripadvisor.com/Attraction_Review-g60713-d142415-Reviews-Japanese_Tea_Garden-San_Francisco_California.html
-16th Avenue Tiled Steps
-https://www.tripadvisor.com/Attraction_Review-g60713-d3440316-Reviews-16th_Avenue_Tiled_Steps-San_Francisco_California.html
-Ghirardelli Square
-https://www.tripadvisor.com/Attraction_Review-g60713-d104680-Reviews-Ghirardelli_Square-San_Francisco_California.html 
-Chinatown
-https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html 
-Anchor Brewing Co
-https://www.tripadvisor.com/Attraction_Review-g60713-d1009199-Reviews-Anchor_Brewing_Company-San_Francisco_California.html 
-Sea Lions of Pier 39
-https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html 
+- [Urban Hike](https://www.tripadvisor.com/AttractionProductDetail?product=6032JUNGLE&d=105363&aidSuffix=xsell&partner=Viator)
+- [Disney Family - Museum](https://www.tripadvisor.com/Attraction_Review-g60713-d1556974-Reviews-Walt_Disney_Family_Museum-San_Francisco_California.html)
+- [Lombard Street](https://www.tripadvisor.com/Attraction_Review-g60713-d106232-Reviews-Lombard_Street-San_Francisco_California.html)
+- [Grace Cathedral](https://www.tripadvisor.com/Attraction_Review-g60713-d116450-Reviews-Grace_Cathedral-San_Francisco_California.html)
+- [Fisherman’s Wharf](https://www.tripadvisor.com/Attraction_Review-g60713-d108678-Reviews-Fisherman_s_Wharf-San_Francisco_California.html)
+- [SanFran Botanical Garden](https://www.tripadvisor.com/Attraction_Review-g60713-d104952-Reviews-San_Francisco_Botanical_Garden-San_Francisco_California.html) 
+- [Ferry Plaza Farmer’s Market](https://www.tripadvisor.com/Attraction_Review-g60713-d282299-Reviews-Ferry_Plaza_Farmer_s_Market-San_Francisco_California.html)
+- [San Fran City Hall](https://www.tripadvisor.com/Attraction_Review-g60713-d144407-Reviews-San_Francisco_City_Hall-San_Francisco_California.html)
+- [Coit Tower](https://www.tripadvisor.com/Attraction_Review-g60713-d104674-Reviews-Coit_Tower-San_Francisco_California.html)
+- [Japanese Tea Garden](https://www.tripadvisor.com/Attraction_Review-g60713-d142415-Reviews-Japanese_Tea_Garden-San_Francisco_California.html)
+- [16th Avenue Tiled Steps](https://www.tripadvisor.com/Attraction_Review-g60713-d3440316-Reviews-16th_Avenue_Tiled_Steps-San_Francisco_California.html)
+- [Ghirardelli Square](https://www.tripadvisor.com/Attraction_Review-g60713-d104680-Reviews-Ghirardelli_Square-San_Francisco_California.html)
+- [Chinatown](https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html)
+- [Sea Lions of Pier 39](https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html)
 
