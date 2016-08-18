@@ -22,7 +22,7 @@
 
 - See/Visit Silicon Valley?
 
-- Movie/Filiming Locations:
+- Movie/Filming Locations:
  - http://www.movie-locations.com/places/usa/sanfran.html#.V7S5ik0rKCh 
  - https://data.sfgov.org/Culture-and-Recreation/Film-Locations-in-San-Francisco/yitu-d5am/data
  - http://www.maphook.com/site/mhweb/demos/sfmoviemap.html?sfmoviemap 
