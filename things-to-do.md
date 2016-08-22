@@ -41,7 +41,8 @@ Craft :beer: Tours:
  - https://www.tripadvisor.com/Attraction_Review-g60713-d8113964-Reviews-SF_on_Tap_Walking_Craft_Beer_Tours-San_Francisco_California.html 
  - https://www.tripadvisor.com/Attractions-g60713-Activities-c42-t201-San_Francisco_California.html 
  - [Anchor Brewing Co](https://www.tripadvisor.com/Attraction_Review-g60713-d1009199-Reviews-Anchor_Brewing_Company-San_Francisco_California.html)
-- Tours/Places to Go/See:
+
+Tours/Places to Go/See:
 - [Urban Hike](https://www.tripadvisor.com/AttractionProductDetail?product=6032JUNGLE&d=105363&aidSuffix=xsell&partner=Viator)
 - [Disney Family - Museum](https://www.tripadvisor.com/Attraction_Review-g60713-d1556974-Reviews-Walt_Disney_Family_Museum-San_Francisco_California.html)
 - [Lombard Street](https://www.tripadvisor.com/Attraction_Review-g60713-d106232-Reviews-Lombard_Street-San_Francisco_California.html)
@@ -57,7 +58,8 @@ Craft :beer: Tours:
 - [Chinatown](https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html)
 - [Sea Lions of Pier 39](https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html)
 
-- Restaurants:
+
+Restaurants:
 - Breakfast: [Flour & Company](http://www.flourandco.com/) $$
 - Breakfast: [Eight AM](https://www.tripadvisor.com/Restaurant_Review-g60713-d8122118-Reviews-Eight_Am-San_Francisco_California.html)
    - Fisherman's Warf
@@ -74,8 +76,9 @@ Craft :beer: Tours:
   - Mission District
 - Lunch: [Yank Sing] [Dim Sum](https://www.tripadvisor.com/Restaurant_Review-g60713-d360106-Reviews-Yank_Sing_Stevenson_St-San_Francisco_California.html)
   -SoMa
+- Lunch: [Nopalito](http://www.tvfoodmaps.com/restaurant/CA/San-Francisco/Nopalito) Tacos place on DDD
+- Lunch: [HRD Coffee Shop](http://www.tvfoodmaps.com/restaurant/CA/San-Francisco/HRD-Coffee-Shop) Asian/American/Mexican fusion joint doing a Korean spicy pork burrito with homemade kimchee featured on DDD.
 - Lunch/Dinner: [Sanraku Japanese Rest](https://www.tripadvisor.com/Restaurant_Review-g60713-d360133-Reviews-Sanraku_Japanese_Restaurant-San_Francisco_California.html) 
-- 
 - Lunch/Dinner: [ZeroZero](http://www.zerozerosf.com/) $$$
 - Lunch/Dinner: [Tony's Pizza Napoletana](https://www.tripadvisor.com/Restaurant_Review-g60713-d1645853-Reviews-Tony_s_Pizza_Napoletana-San_Francisco_California.html)
   -North Beach
