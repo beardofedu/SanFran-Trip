@@ -8,6 +8,7 @@
 
 - Go to Golden Gate National Rec Area
 - Find the spot where Star Wars was filmed
+  - Visit the Lucas Film campus in Presidio and have coffee at Starbucks across from the Yoda water fountain
 - [Visit Muir Beach](https://www.tripadvisor.com/AttractionProductDetail?product=2660SFOMUI1&d=124638&aidSuffix=xsell&partner=Viator) 
 - Go to Golden Gate Park (different than the above)
 - Visit the institute of science
@@ -34,6 +35,7 @@
   - http://www.movie-locations.com/movies/s/Star_Trek_IV.html 
   - Find the bench from 100 days of summer
   - Lands End: https://www.tripadvisor.com/Attraction_Review-g60713-d117409-Reviews-Lands_End-San_Francisco_California.html
+  - [Vertigo](http://www.sfgate.com/entertainment/article/Vertigo-s-San-Francisco-locations-3277933.php)
 
 Craft :beer: Tours: 
  - https://www.tripadvisor.com/Attraction_Review-g60713-d8113964-Reviews-SF_on_Tap_Walking_Craft_Beer_Tours-San_Francisco_California.html 
@@ -55,3 +57,13 @@ Craft :beer: Tours:
 - [Chinatown](https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html)
 - [Sea Lions of Pier 39](https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html)
 
+Restaurants
+- Breakfast: [Flour & Company](http://www.flourandco.com/) $$
+- Dinner: [Ken Ken Ramen](https://foursquare.com/kenkenramen) $$
+- Dinner: [Ozumo](https://www.yelp.com/biz/ozumo-san-francisco) $$$$
+- Dinner: [Hakkasan](http://hakkasan.com/locations/hakkasan-san-francisco/) $$$$
+- Dessert: [Dandelion Chocolate](https://www.dandelionchocolate.com/) $$$
+- Lunch: [HRD](https://www.yelp.com/biz/hrd-san-francisco-4) $$
+- Lunch/Dinner: [ZeroZero](http://www.zerozerosf.com/) $$$
+- Breakfast/lunch: [Tartine](https://foursquare.com/v/tartine-bakery/42814b00f964a52002221fe3) $$
+- Coffee: [Bluebottle (Mint Square](https://foursquare.com/v/blue-bottle-coffee/5579b87c498e975f3be98a1e) (try the waffles)
