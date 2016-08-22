@@ -11,17 +11,6 @@
   - Visit the Lucas Film campus in Presidio and have coffee at Starbucks across from the Yoda water fountain
 - [Visit Muir Beach](https://www.tripadvisor.com/AttractionProductDetail?product=2660SFOMUI1&d=124638&aidSuffix=xsell&partner=Viator) 
 - Go to Golden Gate Park (different than the above)
-- Visit the institute of science
-- Go on a Whale/Dolphin tour:
- - [SanFran Whale Tours](http://www.sanfranciscowhaletours.com/)
-  - http://www.sanfranciscowhaletours.com/Trip_Routes.html
- - [Weekends only](http://www.oceanicsociety.org/whale-watching/farallons)
- - [Golden Gate Whale Watch](https://www.sfbaywhalewatching.com/about-us.html) 
- - [Bay Voyager (raft/boat tour)](https://www.tripadvisor.com/Attraction_Review-g60713-d3171289-Reviews-Bay_Voyager-San_Francisco_California.html) 
-
-- [Go Car Tour](https://www.tripadvisor.com/AttractionProductDetail?product=3472GOCAR&d=562111&aidSuffix=xsell&partner=Viator) 
-
-- See/Visit Silicon Valley?
 
 - Movie/Filming Locations:
  - http://www.movie-locations.com/places/usa/sanfran.html#.V7S5ik0rKCh 
@@ -37,12 +26,19 @@
   - Lands End: https://www.tripadvisor.com/Attraction_Review-g60713-d117409-Reviews-Lands_End-San_Francisco_California.html
   - [Vertigo](http://www.sfgate.com/entertainment/article/Vertigo-s-San-Francisco-locations-3277933.php)
 
-Craft :beer: Tours: 
+#### Craft :beer: Tours: 
  - https://www.tripadvisor.com/Attraction_Review-g60713-d8113964-Reviews-SF_on_Tap_Walking_Craft_Beer_Tours-San_Francisco_California.html 
  - https://www.tripadvisor.com/Attractions-g60713-Activities-c42-t201-San_Francisco_California.html 
  - [Anchor Brewing Co](https://www.tripadvisor.com/Attraction_Review-g60713-d1009199-Reviews-Anchor_Brewing_Company-San_Francisco_California.html)
 
-Tours/Places to Go/See:
+### Tours/Places to Go/See:
+- Go on a Whale/Dolphin tour:
+ - [SanFran Whale Tours](http://www.sanfranciscowhaletours.com/)
+  - http://www.sanfranciscowhaletours.com/Trip_Routes.html
+ - [Weekends only](http://www.oceanicsociety.org/whale-watching/farallons)
+ - [Golden Gate Whale Watch](https://www.sfbaywhalewatching.com/about-us.html) 
+ - [Bay Voyager (raft/boat tour)](https://www.tripadvisor.com/Attraction_Review-g60713-d3171289-Reviews-Bay_Voyager-San_Francisco_California.html) 
+- [Go Car Tour](https://www.tripadvisor.com/AttractionProductDetail?product=3472GOCAR&d=562111&aidSuffix=xsell&partner=Viator) 
 - [Urban Hike](https://www.tripadvisor.com/AttractionProductDetail?product=6032JUNGLE&d=105363&aidSuffix=xsell&partner=Viator)
 - [Disney Family - Museum](https://www.tripadvisor.com/Attraction_Review-g60713-d1556974-Reviews-Walt_Disney_Family_Museum-San_Francisco_California.html)
 - [Lombard Street](https://www.tripadvisor.com/Attraction_Review-g60713-d106232-Reviews-Lombard_Street-San_Francisco_California.html)
@@ -59,7 +55,7 @@ Tours/Places to Go/See:
 - [Sea Lions of Pier 39](https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html)
 
 
-Restaurants:
+### Restaurants:
 - Breakfast: [Flour & Company](http://www.flourandco.com/) $$
 - Breakfast: [Eight AM](https://www.tripadvisor.com/Restaurant_Review-g60713-d8122118-Reviews-Eight_Am-San_Francisco_California.html)
    - Fisherman's Warf
