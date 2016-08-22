@@ -57,3 +57,13 @@ Craft :beer: Tours:
 - [Chinatown](https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html)
 - [Sea Lions of Pier 39](https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html)
 
+Restaurants
+- Breakfast: [Flour & Company](http://www.flourandco.com/) $$
+- Dinner: [Ken Ken Ramen](https://foursquare.com/kenkenramen) $$
+- Dinner: [Ozumo](https://www.yelp.com/biz/ozumo-san-francisco) $$$$
+- Dinner: [Hakkasan](http://hakkasan.com/locations/hakkasan-san-francisco/) $$$$
+- Dessert: [Dandelion Chocolate](https://www.dandelionchocolate.com/) $$$
+- Lunch: [HRD](https://www.yelp.com/biz/hrd-san-francisco-4) $$
+- Lunch/Dinner: [ZeroZero](http://www.zerozerosf.com/) $$$
+- Breakfast/lunch: [Tartine](https://foursquare.com/v/tartine-bakery/42814b00f964a52002221fe3) $$
+- Coffee: [Bluebottle (Mint Square](https://foursquare.com/v/blue-bottle-coffee/5579b87c498e975f3be98a1e) (try the waffles)
