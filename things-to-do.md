@@ -8,6 +8,7 @@
 
 - Go to Golden Gate National Rec Area
 - Find the spot where Star Wars was filmed
+  - Visit the Lucas Film campus in Presidio and have coffee at Starbucks across from the Yoda water fountain
 - [Visit Muir Beach](https://www.tripadvisor.com/AttractionProductDetail?product=2660SFOMUI1&d=124638&aidSuffix=xsell&partner=Viator) 
 - Go to Golden Gate Park (different than the above)
 - Visit the institute of science
