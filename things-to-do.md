@@ -35,6 +35,7 @@
   - http://www.movie-locations.com/movies/s/Star_Trek_IV.html 
   - Find the bench from 100 days of summer
   - Lands End: https://www.tripadvisor.com/Attraction_Review-g60713-d117409-Reviews-Lands_End-San_Francisco_California.html
+  - [Vertigo](http://www.sfgate.com/entertainment/article/Vertigo-s-San-Francisco-locations-3277933.php)
 
 Craft :beer: Tours: 
  - https://www.tripadvisor.com/Attraction_Review-g60713-d8113964-Reviews-SF_on_Tap_Walking_Craft_Beer_Tours-San_Francisco_California.html 
