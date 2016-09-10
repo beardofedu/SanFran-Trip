@@ -8,7 +8,8 @@
  - Go to Golden Gate National Rec Area
 - Find the spot where Star Wars was filmed
   - Visit the Lucas Film campus in Presidio and have coffee at Starbucks across from the Yoda water fountain
-- [Visit Muir Beach](https://www.tripadvisor.com/AttractionProductDetail?product=2660SFOMUI1&d=124638&aidSuffix=xsell&partner=Viator) 
+- [Visit Muir Beach](https://www.tripadvisor.com/AttractionProductDetail?product=2660SFOMUI1&d=124638&aidSuffix=xsell&partner=Viator)
+    - Doing this on Tuesday at 900am booked thru the link above; they pick you up at the hotel.
 - Go to Golden Gate Park (different than the above)
 - [Disney Family - Museum](https://www.tripadvisor.com/Attraction_Review-g60713-d1556974-Reviews-Walt_Disney_Family_Museum-San_Francisco_California.html)
 - [Lombard Street](https://www.tripadvisor.com/Attraction_Review-g60713-d106232-Reviews-Lombard_Street-San_Francisco_California.html)
@@ -45,13 +46,12 @@
 
 ### Tours:
 - Go on a Whale/Dolphin tour:
- - [SanFran Whale Tours](http://www.sanfranciscowhaletours.com/)
-  - http://www.sanfranciscowhaletours.com/Trip_Routes.html
- - [Weekends only](http://www.oceanicsociety.org/whale-watching/farallons)
  - [Golden Gate Whale Watch](https://www.sfbaywhalewatching.com/about-us.html) 
- - [Bay Voyager (raft/boat tour)](https://www.tripadvisor.com/Attraction_Review-g60713-d3171289-Reviews-Bay_Voyager-San_Francisco_California.html) 
+    - Doing this on Thursday 11am reservation ($45)
+
 - [Go Car Tour](https://www.tripadvisor.com/AttractionProductDetail?product=3472GOCAR&d=562111&aidSuffix=xsell&partner=Viator) 
 - [Urban Hike](https://www.tripadvisor.com/AttractionProductDetail?product=6032JUNGLE&d=105363&aidSuffix=xsell&partner=Viator)
+- [Double Decker Hop on Hop Off Tour](https://www.tripadvisor.com/AttractionProductDetail?product=6954HOHO&d=7221256&aidSuffix=xsell&partner=Viator) only $25
 
 
 ### Restaurants:
